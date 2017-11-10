@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.actionstyle{-webkit-box-shadow: 0px 0px 5px 0px rgba(26,14,26,1);
+-moz-box-shadow: 0px 0px 5px 0px rgba(26,14,26,1);
+box-shadow: 0px 0px 5px 0px rgba(26,14,26,1);}
+
+.boxstyle{margin-left: 45px; margin-top: 3px}
